@@ -1,0 +1,26 @@
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 1em;
+  max-width: 800px;
+  margin: auto;
+  background-color: #fff698;
+  
+}
+
+* {
+  font-family: 'Open Sans';
+  font-style: normal;
+}
+.light { 
+  font-weight: 300;
+}
+.regular { 
+  font-weight: 400;
+}
+.semibold { 
+  font-weight: 600;
+}
+
+h1 {
+  text-align: center;
+}
